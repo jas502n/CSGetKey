@@ -1,0 +1,2 @@
+# CSGetKey
+cobaltstrike.auth
